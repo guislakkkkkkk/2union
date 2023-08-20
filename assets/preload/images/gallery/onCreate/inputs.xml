@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inputs.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="C0000" x="20" y="20" width="304" height="77" pivotX="9.95" pivotY="12.85"/>
+	<SubTexture name="C0001" x="20" y="20" width="304" height="77"/>
+	<SubTexture name="C0002" x="324" y="20" width="304" height="77"/>
+	<SubTexture name="C0003" x="324" y="20" width="304" height="77"/>
+	<SubTexture name="Z X0000" x="628" y="20" width="314" height="203" pivotX="9.95" pivotY="12.9"/>
+	<SubTexture name="Z X0001" x="628" y="20" width="314" height="203"/>
+	<SubTexture name="Z X0002" x="20" y="223" width="314" height="203"/>
+	<SubTexture name="Z X0003" x="20" y="223" width="314" height="203"/>
+</TextureAtlas>

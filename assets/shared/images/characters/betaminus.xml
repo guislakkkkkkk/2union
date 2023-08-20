@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="betaminus.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beta dies0000" x="10" y="10" width="696" height="1151" pivotX="-13.9" pivotY="588"/>
+	<SubTexture name="beta dies0001" x="10" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0002" x="706" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0003" x="706" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0004" x="1402" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0005" x="1402" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0006" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0007" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0008" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0009" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0010" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0011" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0012" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0013" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0014" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0015" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0016" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0017" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0018" x="2098" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0019" x="2794" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0020" x="2794" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0021" x="3490" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0022" x="3490" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0023" x="4186" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0024" x="4186" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0025" x="4882" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0026" x="4882" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0027" x="5578" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0028" x="5578" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0029" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0030" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0031" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0032" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0033" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0034" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0035" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0036" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0037" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0038" x="6274" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0039" x="6970" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0040" x="6970" y="10" width="696" height="1151"/>
+	<SubTexture name="beta dies0041" x="10" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0042" x="10" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0043" x="706" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0044" x="706" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0045" x="1402" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0046" x="1402" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0047" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0048" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0049" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0050" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0051" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0052" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0053" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0054" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0055" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0056" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0057" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0058" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0059" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0060" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0061" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0062" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0063" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0064" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0065" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0066" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0067" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0068" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dies0069" x="2098" y="1161" width="696" height="1151"/>
+	<SubTexture name="beta dloop0000" x="2794" y="1161" width="634" height="747" pivotX="-44.9" pivotY="187.35"/>
+	<SubTexture name="beta dloop0001" x="2794" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0002" x="3428" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0003" x="3428" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0004" x="4062" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0005" x="4062" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0006" x="4696" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0007" x="4696" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0008" x="5330" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0009" x="5330" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0010" x="2794" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0011" x="2794" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0012" x="3428" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0013" x="3428" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0014" x="4062" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0015" x="4062" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0016" x="4696" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0017" x="4696" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0018" x="5964" y="1161" width="634" height="747"/>
+	<SubTexture name="beta dloop0019" x="5964" y="1161" width="634" height="747"/>
+	<SubTexture name="beta down0000" x="6598" y="1161" width="506" height="445" pivotX="-5.75" pivotY="-28.35"/>
+	<SubTexture name="beta down0001" x="6598" y="1161" width="506" height="445"/>
+	<SubTexture name="beta down0002" x="7104" y="1161" width="506" height="445"/>
+	<SubTexture name="beta idle0000" x="7610" y="1161" width="465" height="503" pivotX="-7.25" pivotY="-2.1"/>
+	<SubTexture name="beta idle0001" x="7610" y="1161" width="465" height="503"/>
+	<SubTexture name="beta idle0002" x="10" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0003" x="10" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0004" x="475" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0005" x="475" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0006" x="940" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0007" x="940" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0008" x="1405" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0009" x="1405" y="2312" width="465" height="503"/>
+	<SubTexture name="beta idle0010" x="1870" y="2312" width="465" height="503"/>
+	<SubTexture name="beta left0000" x="2335" y="2312" width="488" height="499" pivotX="-31.75" pivotY="-8.25"/>
+	<SubTexture name="beta left0001" x="2335" y="2312" width="488" height="499"/>
+	<SubTexture name="beta left0002" x="2823" y="2312" width="488" height="499"/>
+	<SubTexture name="beta miss0000" x="3311" y="2312" width="525" height="500" pivotX="8.85" pivotY="-2.6"/>
+	<SubTexture name="beta miss0001" x="3311" y="2312" width="525" height="500"/>
+	<SubTexture name="beta miss0002" x="3836" y="2312" width="525" height="500"/>
+	<SubTexture name="beta retry0000" x="4361" y="2312" width="831" height="797" pivotX="52.35" pivotY="237.1"/>
+	<SubTexture name="beta retry0001" x="4361" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0002" x="5192" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0003" x="5192" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0004" x="6023" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0005" x="6023" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0006" x="6854" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0007" x="6854" y="2312" width="831" height="797"/>
+	<SubTexture name="beta retry0008" x="10" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0009" x="10" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0010" x="841" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0011" x="841" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0012" x="1672" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0013" x="1672" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0014" x="841" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0015" x="841" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0016" x="2503" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0017" x="2503" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0018" x="10" y="3109" width="831" height="797"/>
+	<SubTexture name="beta retry0019" x="10" y="3109" width="831" height="797"/>
+	<SubTexture name="beta right0000" x="3334" y="3109" width="468" height="503" pivotX="-9.15" pivotY="-49.75"/>
+	<SubTexture name="beta right0001" x="3334" y="3109" width="468" height="503"/>
+	<SubTexture name="beta right0002" x="3802" y="3109" width="468" height="503"/>
+	<SubTexture name="beta up0000" x="4270" y="3109" width="469" height="555" pivotX="-29.45" pivotY="-17.2"/>
+	<SubTexture name="beta up0001" x="4270" y="3109" width="469" height="555"/>
+	<SubTexture name="beta up0002" x="4739" y="3109" width="469" height="555"/>
+</TextureAtlas>

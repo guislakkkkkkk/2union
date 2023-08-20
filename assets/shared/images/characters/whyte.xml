@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whyte.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whyte dance0000" x="10" y="10" width="354" height="700" pivotX="-1.9" pivotY="332.05"/>
+	<SubTexture name="whyte dance0001" x="10" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0002" x="364" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0003" x="364" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0004" x="718" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0005" x="718" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0006" x="1072" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0007" x="1072" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0008" x="1426" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0009" x="1426" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0010" x="1780" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0011" x="1780" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0012" x="2134" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0013" x="2134" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0014" x="2488" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0015" x="2842" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0016" x="2842" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0017" x="3196" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0018" x="3196" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0019" x="3550" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0020" x="3550" y="10" width="354" height="700"/>
+	<SubTexture name="whyte dance0021" x="10" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0022" x="10" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0023" x="364" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0024" x="364" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0025" x="718" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0026" x="718" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0027" x="1072" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0028" x="1072" y="710" width="354" height="700"/>
+	<SubTexture name="whyte dance0029" x="2488" y="10" width="354" height="700"/>
+</TextureAtlas>

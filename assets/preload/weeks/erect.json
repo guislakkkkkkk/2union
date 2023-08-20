@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"esquece-estilo-erect",
+			"vitor erect",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "erect",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "power guido",
+	"weekName": "erect remixes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "2union",
+	"startUnlocked": false
+}

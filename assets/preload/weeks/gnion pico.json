@@ -1,0 +1,63 @@
+{
+	"storyName": "go pico yeah yeah",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "2unionpico",
+	"freeplayColor": [
+		142, 209, 65
+	],
+	"weekBefore": "2union",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"beastie-pico",
+			"mia",
+			[
+				142, 209, 65
+			]
+		],
+		[
+			"factor-pico",
+			"john",
+			[
+				142, 209, 65
+			]
+		],
+		[
+			"butfunk-pico",
+			"jotan",
+			[
+				142, 209, 65
+			]
+		],
+		[
+			"egelelazer-pico",
+			"nekorno",
+			[
+				142, 209, 65
+			]
+		],
+		[
+			"panetune-pico",
+			"frag",
+			[
+				142, 209, 65
+			]
+		],
+		[
+			"keep-me-calm-pico",
+			"alchemy",
+			[
+				142, 209, 65
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "2vnion pico",
+	"hiddenUntilUnlocked": true
+}

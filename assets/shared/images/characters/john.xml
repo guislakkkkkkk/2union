@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="john.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="385" height="518" pivotX="-0.85" pivotY="-10"/>
+	<SubTexture name="down0001" x="10" y="10" width="385" height="518"/>
+	<SubTexture name="down0002" x="395" y="10" width="385" height="518"/>
+	<SubTexture name="idle0000" x="780" y="10" width="414" height="586" pivotX="85.4" pivotY="0"/>
+	<SubTexture name="idle0001" x="780" y="10" width="414" height="586"/>
+	<SubTexture name="idle0002" x="1194" y="10" width="414" height="586"/>
+	<SubTexture name="idle0003" x="1194" y="10" width="414" height="586"/>
+	<SubTexture name="idle0004" x="1608" y="10" width="414" height="586"/>
+	<SubTexture name="idle0005" x="1608" y="10" width="414" height="586"/>
+	<SubTexture name="idle0006" x="2022" y="10" width="414" height="586"/>
+	<SubTexture name="idle0007" x="2022" y="10" width="414" height="586"/>
+	<SubTexture name="idle0008" x="2436" y="10" width="414" height="586"/>
+	<SubTexture name="idle0009" x="2436" y="10" width="414" height="586"/>
+	<SubTexture name="idle0010" x="2850" y="10" width="414" height="586"/>
+	<SubTexture name="left0000" x="3264" y="10" width="438" height="585" pivotX="-11" pivotY="-13.05"/>
+	<SubTexture name="left0001" x="3264" y="10" width="438" height="585"/>
+	<SubTexture name="left0002" x="10" y="596" width="438" height="585"/>
+	<SubTexture name="right0000" x="448" y="596" width="385" height="587" pivotX="-1.25" pivotY="-10.2"/>
+	<SubTexture name="right0001" x="448" y="596" width="385" height="587"/>
+	<SubTexture name="right0002" x="833" y="596" width="385" height="587"/>
+	<SubTexture name="up0000" x="1218" y="596" width="417" height="626" pivotX="-13.4" pivotY="-32.15"/>
+	<SubTexture name="up0001" x="1218" y="596" width="417" height="626"/>
+	<SubTexture name="up0002" x="1635" y="596" width="417" height="626"/>
+</TextureAtlas>

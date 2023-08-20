@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico idle"
+		},
+		{
+			"offsets": [
+				21,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico up"
+		},
+		{
+			"offsets": [
+				81,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pico down"
+		},
+		{
+			"offsets": [
+				70,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "pico dmiss"
+		},
+		{
+			"offsets": [
+				38,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico umiss"
+		},
+		{
+			"offsets": [
+				-92,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pico right"
+		},
+		{
+			"offsets": [
+				25,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pico left"
+		},
+		{
+			"offsets": [
+				63,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "pico lmiss"
+		},
+		{
+			"offsets": [
+				-75,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "pico rmiss"
+		},
+		{
+			"offsets": [
+				19,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "pico die"
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "pico dloop"
+		},
+		{
+			"offsets": [
+				-56,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "pico retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-30,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

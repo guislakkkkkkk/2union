@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "discord",
+		"player1": "vini",
+		"player2": "keny",
+		"player3": null,
+		"events": [
+			[
+				15157.8947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45473.6842105263,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65684.2105263157,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88105.2631578946,
+				[
+					[
+						"jotanappear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88421.0526315789,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106105.263157895,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nobody",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "crinas"
+	}
+}

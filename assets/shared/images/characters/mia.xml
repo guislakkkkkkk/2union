@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mia.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mia down0000" x="10" y="10" width="484" height="380" pivotX="0" pivotY="8.45"/>
+	<SubTexture name="mia down0001" x="10" y="10" width="484" height="380"/>
+	<SubTexture name="mia down0002" x="494" y="10" width="484" height="380"/>
+	<SubTexture name="mia idle0000" x="978" y="10" width="434" height="520" pivotX="168.1" pivotY="10.05"/>
+	<SubTexture name="mia idle0001" x="978" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0002" x="1412" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0003" x="1412" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0004" x="1846" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0005" x="1846" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0006" x="2280" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0007" x="2280" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0008" x="2714" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0009" x="2714" y="10" width="434" height="520"/>
+	<SubTexture name="mia idle0010" x="3148" y="10" width="434" height="520"/>
+	<SubTexture name="mia laugh0000" x="10" y="530" width="565" height="472" pivotX="2.3" pivotY="6.8"/>
+	<SubTexture name="mia laugh0001" x="575" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0002" x="1140" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0003" x="1140" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0004" x="1705" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0005" x="2270" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0006" x="2835" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0007" x="3400" y="530" width="565" height="472"/>
+	<SubTexture name="mia laugh0008" x="10" y="1002" width="565" height="472"/>
+	<SubTexture name="mia laugh0009" x="10" y="1002" width="565" height="472"/>
+	<SubTexture name="mia laugh0010" x="575" y="1002" width="565" height="472"/>
+	<SubTexture name="mia laugh0011" x="1140" y="1002" width="565" height="472"/>
+	<SubTexture name="mia left0000" x="1705" y="1002" width="402" height="515" pivotX="53.5" pivotY="16.1"/>
+	<SubTexture name="mia left0001" x="1705" y="1002" width="402" height="515"/>
+	<SubTexture name="mia left0002" x="2107" y="1002" width="402" height="515"/>
+	<SubTexture name="mia right0000" x="2509" y="1002" width="467" height="515" pivotX="-37.05" pivotY="12.6"/>
+	<SubTexture name="mia right0001" x="2509" y="1002" width="467" height="515"/>
+	<SubTexture name="mia right0002" x="2976" y="1002" width="467" height="515"/>
+	<SubTexture name="mia up0000" x="3443" y="1002" width="393" height="542" pivotX="-15.6" pivotY="15.95"/>
+	<SubTexture name="mia up0001" x="3443" y="1002" width="393" height="542"/>
+	<SubTexture name="mia up0002" x="10" y="1544" width="393" height="542"/>
+</TextureAtlas>

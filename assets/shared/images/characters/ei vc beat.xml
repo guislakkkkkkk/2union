@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ei vc beat.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ei vc beat instância 10000" x="10" y="10" width="768" height="623" pivotX="0" pivotY="0"/>
+</TextureAtlas>

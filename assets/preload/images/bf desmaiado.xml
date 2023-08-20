@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf desmaiado.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 28 instância 10000" x="10" y="10" width="601" height="281" pivotX="0" pivotY="0.55"/>
+	<SubTexture name="Símbolo 28 instância 10001" x="611" y="10" width="601" height="281"/>
+	<SubTexture name="Símbolo 28 instância 10002" x="1212" y="10" width="601" height="281"/>
+	<SubTexture name="Símbolo 28 instância 10003" x="10" y="291" width="601" height="281"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-46,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				5,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-55,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				58,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [
+				-35,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dmiss"
+		},
+		{
+			"offsets": [
+				12,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				-59,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nekorno",
+	"position": [
+		50,
+		370
+	],
+	"healthicon": "nekorno",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		43,
+		0
+	],
+	"camera_position": [
+		-140,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "keny idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "keny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-124
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "keny down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "keny up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "keny right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/keny",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "alchemy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		78
+	],
+	"camera_position": [
+		-220,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

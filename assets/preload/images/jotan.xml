@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jotan.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jotan instância 10000" x="0" y="0" width="1656" height="222" pivotX="0" pivotY="90.15" frameX="0" frameY="0" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10001" x="1656" y="0" width="1656" height="221" frameX="0" frameY="-10" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10002" x="0" y="222" width="1656" height="222" frameX="0" frameY="-19" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10003" x="1656" y="222" width="1656" height="222" frameX="0" frameY="-28" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10004" x="0" y="444" width="1656" height="222" frameX="0" frameY="-37" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10005" x="1656" y="444" width="1656" height="222" frameX="0" frameY="-45" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10006" x="0" y="666" width="1656" height="222" frameX="0" frameY="-53" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10007" x="1656" y="666" width="1656" height="222" frameX="0" frameY="-60" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10008" x="0" y="888" width="1656" height="222" frameX="0" frameY="-66" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10009" x="1656" y="888" width="1656" height="222" frameX="0" frameY="-72" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10010" x="0" y="1110" width="1656" height="222" frameX="0" frameY="-76" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10011" x="1656" y="1110" width="1656" height="222" frameX="0" frameY="-80" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10012" x="0" y="1332" width="1656" height="221" frameX="0" frameY="-83" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10013" x="1656" y="1332" width="1656" height="222" frameX="0" frameY="-84" frameWidth="1656" frameHeight="307"/>
+	<SubTexture name="jotan instância 10014" x="0" y="1554" width="1656" height="222" frameX="0" frameY="-85" frameWidth="1656" frameHeight="307"/>
+</TextureAtlas>

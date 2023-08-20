@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="COSO.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="COSO DLOOP0000" x="10" y="10" width="316" height="282" pivotX="-30.4" pivotY="-39.55"/>
+	<SubTexture name="COSO DLOOP0001" x="10" y="10" width="316" height="282"/>
+	<SubTexture name="COSO DLOOP0002" x="326" y="10" width="316" height="282"/>
+	<SubTexture name="COSO DLOOP0003" x="326" y="10" width="316" height="282"/>
+	<SubTexture name="COSO DOWN0000" x="642" y="10" width="405" height="352" pivotX="31.8" pivotY="28.7"/>
+	<SubTexture name="COSO DOWN0001" x="1047" y="10" width="405" height="352"/>
+	<SubTexture name="COSO DOWN0002" x="1047" y="10" width="405" height="352"/>
+	<SubTexture name="COSO DOWN0003" x="1047" y="10" width="405" height="352"/>
+	<SubTexture name="COSO DOWN0004" x="1452" y="10" width="405" height="352"/>
+	<SubTexture name="COSO DOWN0005" x="1452" y="10" width="405" height="352"/>
+	<SubTexture name="COSO DOWN0006" x="1452" y="10" width="405" height="352"/>
+	<SubTexture name="COSO HEY0000" x="1857" y="10" width="390" height="352" pivotX="58.85" pivotY="28.7"/>
+	<SubTexture name="COSO HEY0001" x="1857" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0002" x="2247" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0003" x="2247" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0004" x="2247" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0005" x="2637" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0006" x="2637" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0007" x="2637" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0008" x="2637" y="10" width="390" height="352"/>
+	<SubTexture name="COSO HEY0009" x="2637" y="10" width="390" height="352"/>
+	<SubTexture name="COSO IDLE0000" x="3027" y="10" width="377" height="352" pivotX="39.3" pivotY="28.7"/>
+	<SubTexture name="COSO IDLE0001" x="3027" y="10" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0002" x="3404" y="10" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0003" x="3404" y="10" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0004" x="3404" y="10" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0005" x="10" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0006" x="10" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0007" x="10" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0008" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0009" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0010" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0011" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0012" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0013" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO IDLE0014" x="387" y="362" width="377" height="352"/>
+	<SubTexture name="COSO LEFT0000" x="764" y="362" width="395" height="352" pivotX="66.25" pivotY="28.7"/>
+	<SubTexture name="COSO LEFT0001" x="1159" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LEFT0002" x="1159" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LEFT0003" x="1159" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LEFT0004" x="1554" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LEFT0005" x="1554" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LEFT0006" x="1554" y="362" width="395" height="352"/>
+	<SubTexture name="COSO LLOOP0000" x="1949" y="362" width="306" height="320" pivotX="34.15" pivotY="-3.2"/>
+	<SubTexture name="COSO LLOOP0001" x="1949" y="362" width="306" height="320"/>
+	<SubTexture name="COSO LLOOP0002" x="2255" y="362" width="306" height="320"/>
+	<SubTexture name="COSO LLOOP0003" x="2255" y="362" width="306" height="320"/>
+	<SubTexture name="COSO RIGHT0000" x="2561" y="362" width="383" height="352" pivotX="29.45" pivotY="28.7"/>
+	<SubTexture name="COSO RIGHT0001" x="2561" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0002" x="2944" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0003" x="2944" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0004" x="2944" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0005" x="3327" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0006" x="3327" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RIGHT0007" x="3327" y="362" width="383" height="352"/>
+	<SubTexture name="COSO RLOOP0000" x="3710" y="362" width="292" height="332" pivotX="-27.15" pivotY="13.15"/>
+	<SubTexture name="COSO RLOOP0001" x="3710" y="362" width="292" height="332"/>
+	<SubTexture name="COSO RLOOP0002" x="10" y="714" width="292" height="332"/>
+	<SubTexture name="COSO RLOOP0003" x="10" y="714" width="292" height="332"/>
+	<SubTexture name="COSO ULOOP0000" x="302" y="714" width="299" height="339" pivotX="2.65" pivotY="78.65"/>
+	<SubTexture name="COSO ULOOP0001" x="302" y="714" width="299" height="339"/>
+	<SubTexture name="COSO ULOOP0002" x="601" y="714" width="299" height="339"/>
+	<SubTexture name="COSO ULOOP0003" x="601" y="714" width="299" height="339"/>
+	<SubTexture name="COSO UP0000" x="900" y="714" width="377" height="437" pivotX="39.3" pivotY="114.85"/>
+	<SubTexture name="COSO UP0001" x="1277" y="714" width="377" height="437"/>
+	<SubTexture name="COSO UP0002" x="1277" y="714" width="377" height="437"/>
+	<SubTexture name="COSO UP0003" x="1277" y="714" width="377" height="437"/>
+	<SubTexture name="COSO UP0004" x="1654" y="714" width="377" height="437"/>
+	<SubTexture name="COSO UP0005" x="1654" y="714" width="377" height="437"/>
+	<SubTexture name="COSO UP0006" x="1654" y="714" width="377" height="437"/>
+</TextureAtlas>

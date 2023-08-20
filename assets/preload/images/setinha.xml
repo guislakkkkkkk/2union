@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="setinha.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="setinha0000" x="0" y="0" width="46" height="71" pivotX="0" pivotY="0"/>
+	<SubTexture name="setinha press0000" x="96" y="0" width="46" height="71" pivotX="0" pivotY="0"/>
+	<SubTexture name="setinha press0001" x="96" y="0" width="46" height="71"/>
+	<SubTexture name="setinha press0002" x="0" y="0" width="46" height="71"/>
+</TextureAtlas>

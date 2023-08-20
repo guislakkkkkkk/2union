@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ei vc beat"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ei vc beat"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ei vc beat"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ei vc beat"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ei vc beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ei vc beat",
+	"position": [
+		-110,
+		100
+	],
+	"healthicon": "eivcbeat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		0
+	],
+	"camera_position": [
+		-160,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

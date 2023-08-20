@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "curulebf idle"
+		},
+		{
+			"offsets": [
+				-16,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "curulebf left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "curulebf down"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "curulebf up"
+		},
+		{
+			"offsets": [
+				-2,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "curulebf right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "curulebf lmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "curulebf dmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "curulebf umiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "curulebf rmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "curulebf death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "curulebf dloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "curulebf retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curulebf",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "curulebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

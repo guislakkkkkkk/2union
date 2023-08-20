@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nekorno.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dmiss0000" x="10" y="10" width="401" height="324" pivotX="6.85" pivotY="-7.35"/>
+	<SubTexture name="dmiss0001" x="10" y="10" width="401" height="324"/>
+	<SubTexture name="dmiss0002" x="411" y="10" width="401" height="324"/>
+	<SubTexture name="dmiss0003" x="411" y="10" width="401" height="324"/>
+	<SubTexture name="dmiss0004" x="812" y="10" width="401" height="324"/>
+	<SubTexture name="down0000" x="1213" y="10" width="386" height="323" pivotX="-5.8" pivotY="-6.8"/>
+	<SubTexture name="down0001" x="1213" y="10" width="386" height="323"/>
+	<SubTexture name="down0002" x="1599" y="10" width="386" height="323"/>
+	<SubTexture name="idle0000" x="10" y="334" width="394" height="371" pivotX="-0.05" pivotY="2.2"/>
+	<SubTexture name="idle0001" x="10" y="334" width="394" height="371"/>
+	<SubTexture name="idle0002" x="404" y="334" width="394" height="371"/>
+	<SubTexture name="idle0003" x="404" y="334" width="394" height="371"/>
+	<SubTexture name="idle0004" x="798" y="334" width="394" height="371"/>
+	<SubTexture name="idle0005" x="798" y="334" width="394" height="371"/>
+	<SubTexture name="idle0006" x="1192" y="334" width="394" height="371"/>
+	<SubTexture name="idle0007" x="1192" y="334" width="394" height="371"/>
+	<SubTexture name="idle0008" x="1586" y="334" width="394" height="371"/>
+	<SubTexture name="idle0009" x="1586" y="334" width="394" height="371"/>
+	<SubTexture name="left0000" x="10" y="705" width="386" height="379" pivotX="-14.4" pivotY="-12.9"/>
+	<SubTexture name="left0001" x="10" y="705" width="386" height="379"/>
+	<SubTexture name="left0002" x="396" y="705" width="386" height="379"/>
+	<SubTexture name="lmiss0000" x="782" y="705" width="388" height="378" pivotX="-13.6" pivotY="-13.75"/>
+	<SubTexture name="lmiss0001" x="782" y="705" width="388" height="378"/>
+	<SubTexture name="lmiss0002" x="1170" y="705" width="388" height="378"/>
+	<SubTexture name="lmiss0003" x="1170" y="705" width="388" height="378"/>
+	<SubTexture name="lmiss0004" x="1558" y="705" width="388" height="378"/>
+	<SubTexture name="right0000" x="10" y="1084" width="392" height="373" pivotX="-0.05" pivotY="2.4"/>
+	<SubTexture name="right0001" x="10" y="1084" width="392" height="373"/>
+	<SubTexture name="right0002" x="402" y="1084" width="392" height="373"/>
+	<SubTexture name="rmiss0000" x="794" y="1084" width="394" height="387" pivotX="-5.85" pivotY="15.15"/>
+	<SubTexture name="rmiss0001" x="794" y="1084" width="394" height="387"/>
+	<SubTexture name="rmiss0002" x="1188" y="1084" width="394" height="387"/>
+	<SubTexture name="rmiss0003" x="1188" y="1084" width="394" height="387"/>
+	<SubTexture name="rmiss0004" x="1582" y="1084" width="394" height="387"/>
+	<SubTexture name="umiss0000" x="10" y="1471" width="391" height="411" pivotX="-2" pivotY="10.8"/>
+	<SubTexture name="umiss0001" x="10" y="1471" width="391" height="411"/>
+	<SubTexture name="umiss0002" x="401" y="1471" width="391" height="411"/>
+	<SubTexture name="umiss0003" x="401" y="1471" width="391" height="411"/>
+	<SubTexture name="umiss0004" x="792" y="1471" width="391" height="411"/>
+	<SubTexture name="up0000" x="1183" y="1471" width="389" height="401" pivotX="-8.05" pivotY="0.45"/>
+	<SubTexture name="up0001" x="1183" y="1471" width="389" height="401"/>
+	<SubTexture name="up0002" x="1572" y="1471" width="389" height="401"/>
+</TextureAtlas>

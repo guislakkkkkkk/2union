@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backbop.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backbop0000" x="10" y="10" width="1728" height="523" pivotX="11.5" pivotY="152.45"/>
+	<SubTexture name="backbop0001" x="10" y="10" width="1728" height="523"/>
+	<SubTexture name="backbop0002" x="10" y="533" width="1728" height="523"/>
+	<SubTexture name="backbop0003" x="10" y="533" width="1728" height="523"/>
+	<SubTexture name="backbop0004" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0005" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0006" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0007" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0008" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0009" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0010" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0011" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0012" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0013" x="10" y="1056" width="1728" height="523"/>
+	<SubTexture name="backbop0014" x="10" y="1056" width="1728" height="523"/>
+</TextureAtlas>

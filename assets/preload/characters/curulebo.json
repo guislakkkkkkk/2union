@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "curulebo idle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "curulebo left"
+		},
+		{
+			"offsets": [
+				-30,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "curulebo down"
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "curulebo up"
+		},
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "curulebo right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "curulebo hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/curulebo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "curulebo",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		224,
+		224
+	],
+	"camera_position": [
+		-30,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

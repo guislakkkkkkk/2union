@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plataforma.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plataforma instância 10000" x="10" y="10" width="849" height="446" pivotX="50.55" pivotY="28.95"/>
+	<SubTexture name="plataforma instância 10001" x="859" y="10" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10002" x="1708" y="10" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10003" x="2557" y="10" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10004" x="10" y="456" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10005" x="859" y="456" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10006" x="1708" y="456" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10007" x="2557" y="456" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10008" x="10" y="902" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10009" x="859" y="902" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10010" x="1708" y="902" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10011" x="2557" y="902" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10012" x="10" y="1348" width="849" height="446"/>
+	<SubTexture name="plataforma instância 10013" x="859" y="1348" width="849" height="446"/>
+</TextureAtlas>

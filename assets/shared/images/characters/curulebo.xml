@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="curulebo.png">
+<SubTexture name="curulebo idle0000" x="1114" y="1210" width="262" height="453" frameX="-481" frameY="-205" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo idle0001" x="1376" y="1210" width="254" height="451" frameX="-481" frameY="-207" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo idle0002" x="352" y="1210" width="254" height="456" frameX="-481" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo idle0003" x="606" y="1210" width="254" height="455" frameX="-481" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo idle0004" x="860" y="1210" width="254" height="455" frameX="-481" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo down0000" x="418" y="1683" width="403" height="255" frameX="-419" frameY="-427" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo down0001" x="821" y="1683" width="416" height="253" frameX="-406" frameY="-406" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo down0002" x="0" y="1683" width="418" height="262" frameX="-404" frameY="-391" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo left0000" x="1927" y="0" width="328" height="284" frameX="-247" frameY="-233" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo left0001" x="1927" y="284" width="328" height="284" frameX="-270" frameY="-233" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo left0002" x="1927" y="568" width="328" height="284" frameX="-279" frameY="-232" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo right0000" x="382" y="663" width="429" height="478" frameX="-466" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo right0001" x="811" y="663" width="429" height="477" frameX="-445" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo right0002" x="0" y="0" width="429" height="663" frameX="-435" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo up0000" x="429" y="0" width="382" height="547" frameX="-402" frameY="-97" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo up0001" x="811" y="0" width="755" height="547" frameX="-29" frameY="-113" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo up0002" x="0" y="663" width="382" height="547" frameX="-402" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo hey0000" x="1240" y="663" width="296" height="458" frameX="-450" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo hey0001" x="0" y="1210" width="352" height="473" frameX="-410" frameY="-207" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo hey0002" x="1566" y="0" width="361" height="475" frameX="-422" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo hey0003" x="1566" y="0" width="361" height="475" frameX="-422" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="curulebo hey0004" x="1566" y="475" width="361" height="475" frameX="-422" frameY="-210" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

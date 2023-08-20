@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf idle"
+		},
+		{
+			"offsets": [
+				5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf left"
+		},
+		{
+			"offsets": [
+				-11,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf down"
+		},
+		{
+			"offsets": [
+				-38,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf up"
+		},
+		{
+			"offsets": [
+				-36,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				83
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gf die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gf dloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "gf retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable GF V2",
+	"position": [
+		670,
+		190
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

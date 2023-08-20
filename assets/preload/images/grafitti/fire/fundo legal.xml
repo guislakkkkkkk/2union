@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fundo legal.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fundo legal0000" x="10" y="10" width="1920" height="1080" pivotX="0" pivotY="0"/>
+	<SubTexture name="fundo legal0001" x="10" y="10" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0002" x="1930" y="10" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0003" x="1930" y="10" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0004" x="10" y="1090" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0005" x="10" y="1090" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0006" x="1930" y="1090" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0007" x="1930" y="1090" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0008" x="10" y="2170" width="1920" height="1080"/>
+	<SubTexture name="fundo legal0009" x="10" y="2170" width="1920" height="1080"/>
+</TextureAtlas>

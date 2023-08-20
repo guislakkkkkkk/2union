@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jotan bg.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jotan bg instância 10000" x="10" y="10" width="378" height="394" pivotX="21.95" pivotY="-2.75"/>
+	<SubTexture name="jotan bg instância 10001" x="10" y="10" width="378" height="394"/>
+	<SubTexture name="jotan bg instância 10002" x="388" y="10" width="378" height="394"/>
+	<SubTexture name="jotan bg instância 10003" x="388" y="10" width="378" height="394"/>
+	<SubTexture name="jotan bg instância 10004" x="10" y="404" width="378" height="394"/>
+</TextureAtlas>

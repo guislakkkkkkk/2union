@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"shoegases",
+			"caixo",
+			[
+				100,
+				60,
+				60
+			]
+		],
+		[
+			"esquece-estilo",
+			"vitor",
+			[
+				200,
+				33,
+				53
+			]
+		],
+		[
+			"lynxie",
+			"yubo",
+			[
+				146,
+				0,
+				95
+			]
+		],
+				[
+			"lope",
+			"face",
+			[
+				146,
+				0,
+				95
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "de cada dia",
+	"weekName": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "2union",
+	"startUnlocked": false
+}

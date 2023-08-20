@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbop.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alchemy0000" x="10" y="10" width="1527" height="587" pivotX="847.7" pivotY="188.8"/>
+	<SubTexture name="alchemy0001" x="1537" y="10" width="1527" height="587"/>
+	<SubTexture name="alchemy0002" x="10" y="597" width="1527" height="587"/>
+	<SubTexture name="alchemy0003" x="1537" y="597" width="1527" height="587"/>
+	<SubTexture name="alchemy0004" x="10" y="1184" width="1527" height="587"/>
+	<SubTexture name="alchemy0005" x="1537" y="1184" width="1527" height="587"/>
+	<SubTexture name="alchemy0006" x="10" y="1771" width="1527" height="587"/>
+	<SubTexture name="alchemy0007" x="1537" y="1771" width="1527" height="587"/>
+	<SubTexture name="alchemy0008" x="10" y="2358" width="1527" height="587"/>
+	<SubTexture name="alchemy0009" x="1537" y="2358" width="1527" height="587"/>
+	<SubTexture name="alchemy0010" x="10" y="2945" width="1527" height="587"/>
+	<SubTexture name="alchemy0011" x="1537" y="2945" width="1527" height="587"/>
+</TextureAtlas>

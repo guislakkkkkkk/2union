@@ -1,0 +1,77 @@
+{
+	"storyName": "the second union of every day",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "2union",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"beastie",
+			"mia",
+			[
+				206,
+				100,
+				215
+			]
+		],
+		[
+			"factor",
+			"john",
+			[
+				106,
+				133,
+				213
+			]
+		],
+		[
+			"butfunk",
+			"jotan",
+			[
+				200,
+				100,
+				100
+			]
+		],
+		[
+			"egelelazer",
+			"nekorno",
+			[
+				226,
+				113,
+				100
+			]
+		],
+		[
+			"panetune",
+			"frag",
+			[
+				126,
+				153,
+				255
+			]
+		],
+		[
+			"keep-me-calm",
+			"alchemy",
+			[
+				6,
+				213,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "2union",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Zoom",
+						"0.8",
+						"12"
+					],
+					[
+						"Change Scroll Speed",
+						"2",
+						"12"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"flashCamera",
+						"FFFFFF",
+						"2"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

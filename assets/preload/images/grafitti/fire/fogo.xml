@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fogo.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fogo instância 10000" x="10" y="10" width="3746" height="921" pivotX="2.95" pivotY="0"/>
+	<SubTexture name="fogo instância 10001" x="10" y="10" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10002" x="10" y="931" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10003" x="10" y="931" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10004" x="10" y="1852" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10005" x="10" y="1852" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10006" x="10" y="2773" width="3746" height="921"/>
+	<SubTexture name="fogo instância 10007" x="10" y="2773" width="3746" height="921"/>
+</TextureAtlas>

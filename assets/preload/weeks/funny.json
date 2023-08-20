@@ -1,0 +1,50 @@
+{
+	"storyName": "engrasados",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "funny",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2union",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"a legao",
+			"coso",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"ei vc beep",
+			"eivcbeat",
+			[
+				106,
+				193,
+				255
+			]
+		],
+		[
+			"givin-ass",
+			"curulebo",
+			[
+				240,
+				180,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "funny week",
+	"hiddenUntilUnlocked": false
+}

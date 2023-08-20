@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iago.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="iago down0000" x="10" y="10" width="399" height="348" pivotX="-1.4" pivotY="-2"/>
+	<SubTexture name="iago down0001" x="10" y="10" width="399" height="348"/>
+	<SubTexture name="iago down0002" x="409" y="10" width="399" height="348"/>
+	<SubTexture name="iago idle0000" x="808" y="10" width="395" height="366" pivotX="-2.55" pivotY="-0.05"/>
+	<SubTexture name="iago idle0001" x="808" y="10" width="395" height="366"/>
+	<SubTexture name="iago idle0002" x="1203" y="10" width="395" height="366"/>
+	<SubTexture name="iago idle0003" x="1203" y="10" width="395" height="366"/>
+	<SubTexture name="iago idle0004" x="1598" y="10" width="395" height="366"/>
+	<SubTexture name="iago idle0005" x="1598" y="10" width="395" height="366"/>
+	<SubTexture name="iago idle0006" x="10" y="376" width="395" height="366"/>
+	<SubTexture name="iago idle0007" x="10" y="376" width="395" height="366"/>
+	<SubTexture name="iago idle0008" x="405" y="376" width="395" height="366"/>
+	<SubTexture name="iago idle0009" x="405" y="376" width="395" height="366"/>
+	<SubTexture name="iago idle0010" x="800" y="376" width="395" height="366"/>
+	<SubTexture name="iago left0000" x="1195" y="376" width="405" height="365" pivotX="12.1" pivotY="3.25"/>
+	<SubTexture name="iago left0001" x="1195" y="376" width="405" height="365"/>
+	<SubTexture name="iago left0002" x="1600" y="376" width="405" height="365"/>
+	<SubTexture name="iago right0000" x="10" y="742" width="392" height="360" pivotX="-1.4" pivotY="-2"/>
+	<SubTexture name="iago right0001" x="10" y="742" width="392" height="360"/>
+	<SubTexture name="iago right0002" x="402" y="742" width="392" height="360"/>
+	<SubTexture name="iago up0000" x="794" y="742" width="390" height="379" pivotX="-7.6" pivotY="-4.3"/>
+	<SubTexture name="iago up0001" x="794" y="742" width="390" height="379"/>
+	<SubTexture name="iago up0002" x="1184" y="742" width="390" height="379"/>
+</TextureAtlas>

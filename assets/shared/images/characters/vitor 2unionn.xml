@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vitor 2unionn.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vitor balao0000" x="10" y="10" width="976" height="723" pivotX="116" pivotY="285"/>
+	<SubTexture name="vitor balao0001" x="986" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0002" x="1962" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0003" x="2938" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0004" x="2938" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0005" x="3914" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0006" x="4890" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0007" x="5866" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0008" x="6842" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0009" x="6842" y="10" width="976" height="723"/>
+	<SubTexture name="vitor balao0010" x="10" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0011" x="10" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0012" x="986" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0013" x="986" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0014" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0015" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0016" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0017" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0018" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0019" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0020" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0021" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0022" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0023" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0024" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0025" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0026" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0027" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0028" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0029" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0030" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0031" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0032" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0033" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0034" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0035" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0036" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0037" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0038" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0039" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0040" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0041" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor balao0042" x="1962" y="733" width="976" height="723"/>
+	<SubTexture name="vitor down0000" x="2938" y="733" width="426" height="839" pivotX="-24.3" pivotY="-24.1"/>
+	<SubTexture name="vitor down0001" x="2938" y="733" width="426" height="839"/>
+	<SubTexture name="vitor down0002" x="3364" y="733" width="426" height="839"/>
+	<SubTexture name="vitor down0003" x="3364" y="733" width="426" height="839"/>
+	<SubTexture name="vitor down0004" x="3790" y="733" width="426" height="839"/>
+	<SubTexture name="vitor esquece0000" x="4216" y="733" width="1206" height="713" pivotX="0" pivotY="2.3"/>
+	<SubTexture name="vitor esquece0001" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0002" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0003" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0004" x="4216" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0005" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0006" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0007" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0008" x="4216" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0009" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0010" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0011" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0012" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0013" x="4216" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0014" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0015" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0016" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0017" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0018" x="4216" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0019" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0020" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0021" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0022" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0023" x="4216" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0024" x="5422" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0025" x="6628" y="733" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0026" x="10" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0027" x="1216" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0028" x="2422" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0029" x="3628" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0030" x="4834" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0031" x="6040" y="1572" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0032" x="10" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0033" x="1216" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0034" x="2422" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0035" x="3628" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0036" x="4834" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0037" x="6040" y="2285" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0038" x="10" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0039" x="1216" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0040" x="2422" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0041" x="3628" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0042" x="4834" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0043" x="6040" y="2998" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0044" x="10" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0045" x="1216" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0046" x="2422" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0047" x="3628" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0048" x="4834" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor esquece0049" x="6040" y="3711" width="1206" height="713"/>
+	<SubTexture name="vitor idle0000" x="7246" y="3711" width="444" height="864" pivotX="-3.2" pivotY="1.6"/>
+	<SubTexture name="vitor idle0001" x="7246" y="3711" width="444" height="864"/>
+	<SubTexture name="vitor idle0002" x="7690" y="3711" width="444" height="864"/>
+	<SubTexture name="vitor idle0003" x="7690" y="3711" width="444" height="864"/>
+	<SubTexture name="vitor idle0004" x="10" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0005" x="10" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0006" x="454" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0007" x="454" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0008" x="898" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0009" x="898" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor idle0010" x="1342" y="4575" width="444" height="864"/>
+	<SubTexture name="vitor left0000" x="1786" y="4575" width="441" height="864" pivotX="41.45" pivotY="1.35"/>
+	<SubTexture name="vitor left0001" x="1786" y="4575" width="441" height="864"/>
+	<SubTexture name="vitor left0002" x="2227" y="4575" width="441" height="864"/>
+	<SubTexture name="vitor left0003" x="2227" y="4575" width="441" height="864"/>
+	<SubTexture name="vitor left0004" x="2668" y="4575" width="441" height="864"/>
+	<SubTexture name="vitor right0000" x="3109" y="4575" width="452" height="865" pivotX="-19.05" pivotY="2.95"/>
+	<SubTexture name="vitor right0001" x="3109" y="4575" width="452" height="865"/>
+	<SubTexture name="vitor right0002" x="3561" y="4575" width="452" height="865"/>
+	<SubTexture name="vitor right0003" x="3561" y="4575" width="452" height="865"/>
+	<SubTexture name="vitor right0004" x="4013" y="4575" width="452" height="865"/>
+	<SubTexture name="vitor up0000" x="4465" y="4575" width="445" height="880" pivotX="3.35" pivotY="17.5"/>
+	<SubTexture name="vitor up0001" x="4465" y="4575" width="445" height="880"/>
+	<SubTexture name="vitor up0002" x="4910" y="4575" width="445" height="880"/>
+	<SubTexture name="vitor up0003" x="4910" y="4575" width="445" height="880"/>
+	<SubTexture name="vitor up0004" x="5355" y="4575" width="445" height="880"/>
+</TextureAtlas>

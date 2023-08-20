@@ -1,0 +1,9 @@
+2union
+Venesio::venesio::Criador, diretor, músico, artista/animador, charter, programador::https://www.youtube.com/channel/UCVN3TyuAs55hhHOpRlwnoEg::528E5B    
+Johnatan o animado::john::Artista/animador, criador de escalas cromáticas::https://www.youtube.com/channel/UC18MTVMygNjI2mJ2yRCDXAg::6FA4FE
+Jotan::jotan::Animador 3D::https://www.youtube.com/@jotanart::FF088C
+Yubo::yubo::Músico::https://twitter.com/_YuBiNhu::A24AD9
+Sorv8::sorv8::Equipe musical (pressione enter para nos ajudar!)::https://www.youtube.com/@sorv8::4DFFDB
+
+Créditos adicionais
+MattFNF::mattfnf::Animador 3D::https://gamebanana.com/members/2553038::414496

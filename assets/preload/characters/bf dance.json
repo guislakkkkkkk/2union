@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				-31,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-19,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				-52,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right"
+		},
+		{
+			"offsets": [
+				-38,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf lmiss"
+		},
+		{
+			"offsets": [
+				-39,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf dmiss"
+		},
+		{
+			"offsets": [
+				-70,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf umiss"
+		},
+		{
+			"offsets": [
+				-72,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf rmiss"
+		},
+		{
+			"offsets": [
+				232,
+				316
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "desmaiando",
+			"indices": [],
+			"name": "bf desmaiando"
+		},
+		{
+			"offsets": [
+				-9,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "susto",
+			"indices": [],
+			"name": "bf susto"
+		},
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "bf dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				33
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "bf hit",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "bf danceRight"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "bf danceLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		0,
+		337
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

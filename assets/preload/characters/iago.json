@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "iago idle"
+		},
+		{
+			"offsets": [
+				47,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "iago left"
+		},
+		{
+			"offsets": [
+				-10,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "iago down"
+		},
+		{
+			"offsets": [
+				8,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "iago up"
+		},
+		{
+			"offsets": [
+				-29,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "iago right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/iago",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "iago",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

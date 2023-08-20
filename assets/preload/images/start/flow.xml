@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flow.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo0000" x="20" y="20" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="Símbolo0001" x="1300" y="20" width="1280" height="720"/>
+	<SubTexture name="Símbolo0002" x="2580" y="20" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "vitor idle"
+		},
+		{
+			"offsets": [
+				59,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "vitor left"
+		},
+		{
+			"offsets": [
+				41,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "vitor down"
+		},
+		{
+			"offsets": [
+				16,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "vitor up"
+		},
+		{
+			"offsets": [
+				5,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "vitor right"
+		},
+		{
+			"offsets": [
+				0,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "esquece estilo",
+			"indices": [],
+			"name": "vitor forget"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vitorerect",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vitor erect",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		66
+	],
+	"camera_position": [
+		-310,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

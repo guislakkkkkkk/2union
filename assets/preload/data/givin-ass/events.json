@@ -1,0 +1,121 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Zoom",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"hudFade",
+						"0",
+						"1"
+					],
+					[
+						"Cinematics (Still Strum)",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"curulebf"
+					],
+					[
+						"hudFade",
+						"100",
+						"1"
+					],
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"0"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

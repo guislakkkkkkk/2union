@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keny.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="keny down0000" x="10" y="10" width="593" height="438" pivotX="21.55" pivotY="-12.4"/>
+	<SubTexture name="keny down0001" x="10" y="10" width="593" height="438"/>
+	<SubTexture name="keny down0002" x="603" y="10" width="593" height="438"/>
+	<SubTexture name="keny idle0000" x="1196" y="10" width="561" height="561" pivotX="70.65" pivotY="-0.2"/>
+	<SubTexture name="keny idle0001" x="1196" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0002" x="1757" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0003" x="1757" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0004" x="2318" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0005" x="2318" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0006" x="2879" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0007" x="2879" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0008" x="3440" y="10" width="561" height="561"/>
+	<SubTexture name="keny idle0009" x="3440" y="10" width="561" height="561"/>
+	<SubTexture name="keny left0000" x="10" y="571" width="590" height="543" pivotX="83.95" pivotY="-20.5"/>
+	<SubTexture name="keny left0001" x="10" y="571" width="590" height="543"/>
+	<SubTexture name="keny left0002" x="600" y="571" width="590" height="543"/>
+	<SubTexture name="keny left0003" x="600" y="571" width="590" height="543"/>
+	<SubTexture name="keny right0000" x="1190" y="571" width="537" height="562" pivotX="-29.8" pivotY="-0.9"/>
+	<SubTexture name="keny right0001" x="1190" y="571" width="537" height="562"/>
+	<SubTexture name="keny right0002" x="1727" y="571" width="537" height="562"/>
+	<SubTexture name="keny up0000" x="2264" y="571" width="525" height="607" pivotX="-3.6" pivotY="-15.2"/>
+	<SubTexture name="keny up0001" x="2264" y="571" width="525" height="607"/>
+	<SubTexture name="keny up0002" x="2789" y="571" width="525" height="607"/>
+	<SubTexture name="shoot0000" x="3314" y="571" width="690" height="556" pivotX="9.9" pivotY="-6.9"/>
+	<SubTexture name="shoot0001" x="3314" y="571" width="690" height="556"/>
+	<SubTexture name="shoot0002" x="10" y="1178" width="690" height="556"/>
+	<SubTexture name="shoot0003" x="10" y="1178" width="690" height="556"/>
+	<SubTexture name="shoot0004" x="700" y="1178" width="690" height="556"/>
+	<SubTexture name="shoot0005" x="700" y="1178" width="690" height="556"/>
+	<SubTexture name="shoot0006" x="1390" y="1178" width="690" height="556"/>
+</TextureAtlas>

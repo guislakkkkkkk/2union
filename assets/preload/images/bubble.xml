@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubble.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry bubble0000" x="0" y="0" width="215" height="157" pivotX="-282.05" pivotY="7.75"/>
+	<SubTexture name="angry bubble0001" x="0" y="0" width="215" height="157"/>
+	<SubTexture name="angry bubble0002" x="265" y="0" width="215" height="157"/>
+	<SubTexture name="angry bubble0003" x="265" y="0" width="215" height="157"/>
+	<SubTexture name="angry bubble0004" x="530" y="0" width="215" height="157"/>
+	<SubTexture name="heyy bubble0000" x="795" y="0" width="190" height="165" pivotX="-282.65" pivotY="22.2"/>
+	<SubTexture name="heyy bubble0001" x="795" y="0" width="190" height="165"/>
+	<SubTexture name="heyy bubble0002" x="1035" y="0" width="190" height="165"/>
+	<SubTexture name="heyy bubble0003" x="1035" y="0" width="190" height="165"/>
+	<SubTexture name="heyy bubble0004" x="1275" y="0" width="190" height="165"/>
+	<SubTexture name="invisbubble0000" x="1515" y="0" width="0" height="0" pivotX="0" pivotY="0"/>
+	<SubTexture name="invisbubble0001" x="1515" y="0" width="0" height="0"/>
+	<SubTexture name="invisbubble0002" x="1515" y="0" width="0" height="0"/>
+	<SubTexture name="invisbubble0003" x="1515" y="0" width="0" height="0"/>
+	<SubTexture name="invisbubble0004" x="1515" y="0" width="0" height="0"/>
+	<SubTexture name="laugh bubble0000" x="1565" y="0" width="110" height="77" pivotX="-271.8" pivotY="-63.3"/>
+	<SubTexture name="laugh bubble0001" x="1565" y="0" width="110" height="77"/>
+	<SubTexture name="laugh bubble0002" x="1725" y="0" width="110" height="77"/>
+	<SubTexture name="laugh bubble0003" x="1725" y="0" width="110" height="77"/>
+	<SubTexture name="laugh bubble0004" x="1725" y="0" width="110" height="77"/>
+	<SubTexture name="singDOWNmiss bubble0000" x="0" y="215" width="568" height="315" pivotX="-153.2" pivotY="-25.15"/>
+	<SubTexture name="singDOWNmiss bubble0001" x="0" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0002" x="618" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0003" x="618" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0004" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0005" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0006" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0007" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0008" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0009" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0010" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0011" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0012" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0013" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0014" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0015" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0016" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0017" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0018" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0019" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0020" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0021" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0022" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singDOWNmiss bubble0023" x="1236" y="215" width="568" height="315"/>
+	<SubTexture name="singLEFTmiss bubble0000" x="0" y="580" width="246" height="113" pivotX="-229.1" pivotY="-15.15"/>
+	<SubTexture name="singLEFTmiss bubble0001" x="0" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0002" x="296" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0003" x="296" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0004" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0005" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0006" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0007" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0008" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0009" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0010" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0011" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0012" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0013" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0014" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0015" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0016" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0017" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0018" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0019" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0020" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0021" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0022" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singLEFTmiss bubble0023" x="592" y="580" width="246" height="113"/>
+	<SubTexture name="singRIGHTmiss bubble0000" x="888" y="580" width="242" height="194" pivotX="-23.7" pivotY="39.5"/>
+	<SubTexture name="singRIGHTmiss bubble0001" x="888" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0002" x="1180" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0003" x="1180" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0004" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0005" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0006" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0007" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0008" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0009" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0010" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0011" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0012" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0013" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0014" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0015" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0016" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0017" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0018" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0019" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0020" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0021" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0022" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singRIGHTmiss bubble0023" x="1472" y="580" width="242" height="194"/>
+	<SubTexture name="singUPmiss bubble0000" x="1764" y="580" width="180" height="252" pivotX="-251.8" pivotY="179.45"/>
+	<SubTexture name="singUPmiss bubble0001" x="1764" y="580" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0002" x="0" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0003" x="0" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0004" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0005" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0006" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0007" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0008" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0009" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0010" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0011" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0012" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0013" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0014" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0015" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0016" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0017" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0018" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0019" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0020" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0021" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0022" x="230" y="882" width="180" height="252"/>
+	<SubTexture name="singUPmiss bubble0023" x="230" y="882" width="180" height="252"/>
+</TextureAtlas>

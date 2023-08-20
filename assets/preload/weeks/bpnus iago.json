@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"piss",
+			"iago",
+			[
+				180,
+				180,
+				180
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"difficulties": "beta, blue, mean",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "de cada dia",
+	"weekName": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "2union",
+	"startUnlocked": false
+}

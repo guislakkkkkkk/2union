@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-48,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				-11,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-69,
+				47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				-62,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf right"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf miss"
+		},
+		{
+			"offsets": [
+				-14,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				-28,
+				-65
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "death loop"
+		},
+		{
+			"offsets": [
+				-29,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "death confirm"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "first death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_coso",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfcoso",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-130,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbop jotan.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceleft0000" x="10" y="10" width="1304" height="530" pivotX="746.5" pivotY="177.5"/>
+	<SubTexture name="danceleft0001" x="10" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0002" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0003" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0004" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0005" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0006" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceleft0007" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="danceright0000" x="2618" y="10" width="1304" height="530" pivotX="746.6" pivotY="177.5"/>
+	<SubTexture name="danceright0001" x="2618" y="10" width="1304" height="530"/>
+	<SubTexture name="danceright0002" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="danceright0003" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="danceright0004" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="danceright0005" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="danceright0006" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="danceright0007" x="10" y="540" width="1304" height="530"/>
+	<SubTexture name="jotan0000" x="1314" y="540" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="jotan0001" x="2618" y="540" width="1304" height="530"/>
+	<SubTexture name="jotan0002" x="10" y="1070" width="1304" height="530"/>
+	<SubTexture name="jotan0003" x="1314" y="1070" width="1304" height="530"/>
+	<SubTexture name="jotan0004" x="2618" y="1070" width="1304" height="530"/>
+	<SubTexture name="jotan0005" x="10" y="1600" width="1304" height="530"/>
+	<SubTexture name="jotan0006" x="1314" y="1600" width="1304" height="530"/>
+	<SubTexture name="jotan0007" x="2618" y="1600" width="1304" height="530"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "caixo idle"
+		},
+		{
+			"offsets": [
+				32,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "caixo left"
+		},
+		{
+			"offsets": [
+				-13,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "caixo down"
+		},
+		{
+			"offsets": [
+				-20,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "caixo right"
+		},
+		{
+			"offsets": [
+				22,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "caixo up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/caixo shadow",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "caixo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		178,
+		124
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

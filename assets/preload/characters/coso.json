@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "COSO LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "COSO DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "COSO UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "COSO RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "COSO IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-28
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "COSO LLOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-67
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "COSO DLOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-15
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "COSO RLOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				32
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "COSO ULOOP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "COSO HEY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/COSO",
+	"position": [
+		50,
+		390
+	],
+	"healthicon": "coso",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-90,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "vitor idle"
+		},
+		{
+			"offsets": [
+				41,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "vitor left"
+		},
+		{
+			"offsets": [
+				-21,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "vitor down"
+		},
+		{
+			"offsets": [
+				7,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "vitor up"
+		},
+		{
+			"offsets": [
+				-13,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "vitor right"
+		},
+		{
+			"offsets": [
+				-100,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "esquece estilo",
+			"loop": false,
+			"name": "vitor esquece"
+		},
+		{
+			"offsets": [
+				350,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "balao",
+			"loop": false,
+			"name": "vitor balao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vitor 2unionn",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vitor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		91,
+		66
+	],
+	"camera_position": [
+		190,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

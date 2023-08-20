@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbop.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alchemy0000" x="10" y="10" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="alchemy0001" x="10" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0002" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0003" x="1314" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0004" x="2618" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0005" x="2618" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0006" x="3922" y="10" width="1304" height="530"/>
+	<SubTexture name="alchemy0007" x="5226" y="10" width="1304" height="530"/>
+	<SubTexture name="frag0000" x="6530" y="10" width="1067" height="529" pivotX="746.5" pivotY="177.5"/>
+	<SubTexture name="frag0001" x="10" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0002" x="1077" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0003" x="2144" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0004" x="3211" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0005" x="4278" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0006" x="5345" y="540" width="1067" height="529"/>
+	<SubTexture name="frag0007" x="6412" y="540" width="1067" height="529"/>
+	<SubTexture name="john0000" x="10" y="1069" width="1304" height="517" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="john0001" x="1314" y="1069" width="1304" height="517"/>
+	<SubTexture name="john0002" x="2618" y="1069" width="1304" height="517"/>
+	<SubTexture name="john0003" x="3922" y="1069" width="1304" height="517"/>
+	<SubTexture name="john0004" x="5226" y="1069" width="1304" height="517"/>
+	<SubTexture name="john0005" x="6530" y="1069" width="1304" height="517"/>
+	<SubTexture name="john0006" x="10" y="1586" width="1304" height="517"/>
+	<SubTexture name="john0007" x="1314" y="1586" width="1304" height="517"/>
+	<SubTexture name="jotan0000" x="2618" y="1586" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="jotan0001" x="3922" y="1586" width="1304" height="530"/>
+	<SubTexture name="jotan0002" x="5226" y="1586" width="1304" height="530"/>
+	<SubTexture name="jotan0003" x="6530" y="1586" width="1304" height="530"/>
+	<SubTexture name="jotan0004" x="10" y="2116" width="1304" height="530"/>
+	<SubTexture name="jotan0005" x="1314" y="2116" width="1304" height="530"/>
+	<SubTexture name="jotan0006" x="2618" y="2116" width="1304" height="530"/>
+	<SubTexture name="jotan0007" x="3922" y="2116" width="1304" height="530"/>
+	<SubTexture name="keny tacando0000" x="5226" y="2116" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="keny tacando0001" x="5226" y="2116" width="1304" height="530"/>
+	<SubTexture name="keny tacando0002" x="6530" y="2116" width="1304" height="530"/>
+	<SubTexture name="keny tacando0003" x="6530" y="2116" width="1304" height="530"/>
+	<SubTexture name="keny tacando0004" x="10" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0005" x="10" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0006" x="1314" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0007" x="2618" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0008" x="3922" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0009" x="3922" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0010" x="5226" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0011" x="6530" y="2646" width="1304" height="530"/>
+	<SubTexture name="keny tacando0012" x="10" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0013" x="1314" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0014" x="2618" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0015" x="3922" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0016" x="5226" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0017" x="6530" y="3176" width="1304" height="530"/>
+	<SubTexture name="keny tacando0018" x="10" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0000" x="10" y="3706" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="mia0001" x="1314" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0002" x="2618" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0003" x="3922" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0004" x="5226" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0005" x="6530" y="3706" width="1304" height="530"/>
+	<SubTexture name="mia0006" x="10" y="4236" width="1304" height="530"/>
+	<SubTexture name="mia0007" x="1314" y="4236" width="1304" height="530"/>
+	<SubTexture name="nekorno0000" x="2618" y="4236" width="1304" height="530" pivotX="746.5" pivotY="178.9"/>
+	<SubTexture name="nekorno0001" x="3922" y="4236" width="1304" height="530"/>
+	<SubTexture name="nekorno0002" x="5226" y="4236" width="1304" height="530"/>
+	<SubTexture name="nekorno0003" x="6530" y="4236" width="1304" height="530"/>
+	<SubTexture name="nekorno0004" x="10" y="4766" width="1304" height="530"/>
+	<SubTexture name="nekorno0005" x="1314" y="4766" width="1304" height="530"/>
+	<SubTexture name="nekorno0006" x="2618" y="4766" width="1304" height="530"/>
+	<SubTexture name="nekorno0007" x="3922" y="4766" width="1304" height="530"/>
+</TextureAtlas>
